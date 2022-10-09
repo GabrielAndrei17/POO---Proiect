@@ -1,0 +1,706 @@
+1 ) Antrenorul Ana cu pokemonul Pikachu vs Antrenorul Maria cu pokemonul Squirtle
+
+Batalia dintre: Pikachu vs Neutrel2
+
+1. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 0 cooldown]
+Pikachu executa miscarea standard 
+Neutrel2 Hp = 17 a primit dmg: 4
+
+b) Neutrel2 turn
+Neutrel2 executa miscarea standard 
+Pikachu Hp = 33 a primit dmg: 4
+
+2. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 0 cooldown]
+Pikachu executa miscarea standard 
+Neutrel2 Hp = 14 a primit dmg: 4
+
+b) Neutrel2 turn
+Neutrel2 executa miscarea standard 
+Pikachu Hp = 31 a primit dmg: 4
+
+3. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 0 cooldown]
+Pikachu executa miscarea standard 
+Neutrel2 Hp = 11 a primit dmg: 4
+
+b) Neutrel2 turn
+Neutrel2 executa miscarea standard 
+Pikachu Hp = 29 a primit dmg: 4
+
+4. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 0 cooldown]
+Pikachu executa miscarea standard 
+Neutrel2 Hp = 8 a primit dmg: 4
+
+b) Neutrel2 turn
+Neutrel2 executa miscarea standard 
+Pikachu Hp = 27 a primit dmg: 4
+
+5. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 0 cooldown]
+Pikachu executa abilitatea speciala: 2
+Pikachu are dodge si nu va primi damage la urmatoarea miscare
+Neutrel2 a primit stunt
+Neutrel2 Hp = 4 a primit dmg: 4
+Abilitatea speciala: 2 are cooldown : 6
+
+b) Neutrel2 turn
+Neutrel2 executa miscarea standard 
+Pikachu Hp = 25 a primit dmg: 4
+
+6. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 5 cooldown]
+Pikachu executa miscarea standard 
+Neutrel2 Hp = 1 a primit dmg: 4
+
+b) Neutrel2 turn
+Neutrel2 este stuned si nu a executat nicio miscare
+
+7. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 4 cooldown]
+Pikachu executa abilitatea speciala: 1
+Neutrel2 Hp = -5 a primit dmg: 6
+Abilitatea speciala: 1 are cooldown : 5
+
+b) Neutrel2 turn
+Pikachu are dodge Neutrel2 nu a reusit sa il atace cu miscara 1
+
+Pikachu castiga cu 25 hp; Neutrel2 pierde
+Pikachu are +1 la caracteristicile din status
+
+Batalia dintre: Squirtle vs Neutrel2
+
+1. 
+a) Squirtle turn
+[Abilitati: 1 - 0 cooldown; 2 - 0 cooldown]
+Squirtle executa abilitatea speciala: 2
+Neutrel2 a primit stunt
+Neutrel2 Hp = 18 a primit dmg: 2
+Abilitatea speciala: 2 are cooldown : 3
+
+b) Neutrel2 turn
+Neutrel2 executa miscarea standard 
+Squirtle Hp = 60 a primit dmg: 4
+
+2. 
+a) Squirtle turn
+[Abilitati: 1 - 0 cooldown; 2 - 2 cooldown]
+Squirtle executa miscarea standard 
+Neutrel2 Hp = 13 a primit dmg: 6
+
+b) Neutrel2 turn
+Neutrel2 este stuned si nu a executat nicio miscare
+
+3. 
+a) Squirtle turn
+[Abilitati: 1 - 0 cooldown; 2 - 1 cooldown]
+Squirtle executa miscarea standard 
+Neutrel2 Hp = 8 a primit dmg: 6
+
+b) Neutrel2 turn
+Neutrel2 executa miscarea standard 
+Squirtle Hp = 60 a primit dmg: 4
+
+4. 
+a) Squirtle turn
+[Abilitati: 1 - 0 cooldown; 2 - 0 cooldown]
+Squirtle executa abilitatea speciala: 1
+Neutrel2 Hp = 4 a primit dmg: 4
+Abilitatea speciala: 1 are cooldown : 4
+
+b) Neutrel2 turn
+Neutrel2 executa miscarea standard 
+Squirtle Hp = 60 a primit dmg: 4
+
+5. 
+a) Squirtle turn
+[Abilitati: 1 - 3 cooldown; 2 - 0 cooldown]
+Squirtle executa abilitatea speciala: 2
+Neutrel2 a primit stunt
+Neutrel2 Hp = 2 a primit dmg: 2
+Abilitatea speciala: 2 are cooldown : 3
+
+b) Neutrel2 turn
+Neutrel2 executa miscarea standard 
+Squirtle Hp = 60 a primit dmg: 4
+
+6. 
+a) Squirtle turn
+[Abilitati: 1 - 2 cooldown; 2 - 2 cooldown]
+Squirtle executa miscarea standard 
+Neutrel2 Hp = -3 a primit dmg: 6
+
+b) Neutrel2 turn
+Neutrel2 este stuned si nu a executat nicio miscare
+
+Squirtle castiga cu 60 hp; Neutrel2 pierde
+Squirtle are +1 la caracteristicile din status
+
+Batalia dintre: Pikachu vs Neutrel1
+
+1. 
+a) Pikachu turn
+[Abilitati: 1 - 4 cooldown; 2 - 3 cooldown]
+Pikachu executa miscarea standard 
+Neutrel1 Hp = 6 a primit dmg: 5
+
+b) Neutrel1 turn
+Neutrel1 executa miscarea standard 
+Pikachu Hp = 36 a primit dmg: 3
+
+2. 
+a) Pikachu turn
+[Abilitati: 1 - 3 cooldown; 2 - 2 cooldown]
+Pikachu executa miscarea standard 
+Neutrel1 Hp = 2 a primit dmg: 5
+
+b) Neutrel1 turn
+Neutrel1 executa miscarea standard 
+Pikachu Hp = 36 a primit dmg: 3
+
+3. 
+a) Pikachu turn
+[Abilitati: 1 - 2 cooldown; 2 - 1 cooldown]
+Pikachu executa miscarea standard 
+Neutrel1 Hp = -2 a primit dmg: 5
+
+b) Neutrel1 turn
+Neutrel1 executa miscarea standard 
+Pikachu Hp = 36 a primit dmg: 3
+
+Pikachu castiga cu 36 hp; Neutrel1 pierde
+Pikachu are +1 la caracteristicile din status
+
+Batalia dintre: Squirtle vs Neutrel1
+
+1. 
+a) Squirtle turn
+[Abilitati: 1 - 1 cooldown; 2 - 1 cooldown]
+Squirtle executa miscarea standard 
+Neutrel1 Hp = 4 a primit dmg: 7
+
+b) Neutrel1 turn
+Neutrel1 executa miscarea standard 
+Squirtle Hp = 61 a primit dmg: 3
+
+2. 
+a) Squirtle turn
+[Abilitati: 1 - 0 cooldown; 2 - 0 cooldown]
+Squirtle executa abilitatea speciala: 2
+Neutrel1 a primit stunt
+Neutrel1 Hp = 2 a primit dmg: 2
+Abilitatea speciala: 2 are cooldown : 3
+
+b) Neutrel1 turn
+Neutrel1 este stuned si nu a executat nicio miscare
+
+3. 
+a) Squirtle turn
+[Abilitati: 1 - 0 cooldown; 2 - 2 cooldown]
+Squirtle executa miscarea standard 
+Neutrel1 Hp = -4 a primit dmg: 7
+
+b) Neutrel1 turn
+Neutrel1 executa miscarea standard 
+Squirtle Hp = 61 a primit dmg: 3
+
+Squirtle castiga cu 61 hp; Neutrel1 pierde
+Squirtle are +1 la caracteristicile din status
+
+Batalia dintre: Pikachu vs Neutrel1
+
+1. 
+a) Pikachu turn
+[Abilitati: 1 - 1 cooldown; 2 - 0 cooldown]
+Pikachu executa abilitatea speciala: 2
+Pikachu are dodge si nu va primi damage la urmatoarea miscare
+Neutrel1 a primit stunt
+Neutrel1 Hp = 6 a primit dmg: 4
+Abilitatea speciala: 2 are cooldown : 6
+
+b) Neutrel1 turn
+Neutrel1 este stuned si nu a executat nicio miscare
+
+2. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 5 cooldown]
+Pikachu executa miscarea standard 
+Neutrel1 Hp = 1 a primit dmg: 6
+
+b) Neutrel1 turn
+Pikachu are dodge Neutrel1 nu a reusit sa il atace cu miscara 1
+
+3. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 4 cooldown]
+Pikachu executa abilitatea speciala: 1
+Neutrel1 Hp = -5 a primit dmg: 6
+Abilitatea speciala: 1 are cooldown : 5
+
+b) Neutrel1 turn
+Neutrel1 executa miscarea standard 
+Pikachu Hp = 37 a primit dmg: 3
+
+Pikachu castiga cu 37 hp; Neutrel1 pierde
+Pikachu are +1 la caracteristicile din status
+
+Batalia dintre: Squirtle vs Neutrel1
+
+1. 
+a) Squirtle turn
+[Abilitati: 1 - 0 cooldown; 2 - 1 cooldown]
+Squirtle executa miscarea standard 
+Neutrel1 Hp = 3 a primit dmg: 8
+
+b) Neutrel1 turn
+Neutrel1 executa miscarea standard 
+Squirtle Hp = 62 a primit dmg: 3
+
+2. 
+a) Squirtle turn
+[Abilitati: 1 - 0 cooldown; 2 - 0 cooldown]
+Squirtle executa abilitatea speciala: 2
+Neutrel1 a primit stunt
+Neutrel1 Hp = 1 a primit dmg: 2
+Abilitatea speciala: 2 are cooldown : 3
+
+b) Neutrel1 turn
+Neutrel1 este stuned si nu a executat nicio miscare
+
+3. 
+a) Squirtle turn
+[Abilitati: 1 - 0 cooldown; 2 - 2 cooldown]
+Squirtle executa abilitatea speciala: 1
+Neutrel1 Hp = -3 a primit dmg: 4
+Abilitatea speciala: 1 are cooldown : 4
+
+b) Neutrel1 turn
+Neutrel1 executa miscarea standard 
+Squirtle Hp = 62 a primit dmg: 3
+
+Squirtle castiga cu 62 hp; Neutrel1 pierde
+Squirtle are +1 la caracteristicile din status
+
+Batalia dintre: Pikachu vs Neutrel1
+
+1. 
+a) Pikachu turn
+[Abilitati: 1 - 4 cooldown; 2 - 3 cooldown]
+Pikachu executa miscarea standard 
+Neutrel1 Hp = 4 a primit dmg: 7
+
+b) Neutrel1 turn
+Neutrel1 executa miscarea standard 
+Pikachu Hp = 38 a primit dmg: 3
+
+2. 
+a) Pikachu turn
+[Abilitati: 1 - 3 cooldown; 2 - 2 cooldown]
+Pikachu executa miscarea standard 
+Neutrel1 Hp = -2 a primit dmg: 7
+
+b) Neutrel1 turn
+Neutrel1 executa miscarea standard 
+Pikachu Hp = 38 a primit dmg: 3
+
+Pikachu castiga cu 38 hp; Neutrel1 pierde
+Pikachu are +1 la caracteristicile din status
+
+Batalia dintre: Squirtle vs Neutrel1
+
+1. 
+a) Squirtle turn
+[Abilitati: 1 - 3 cooldown; 2 - 1 cooldown]
+Squirtle executa miscarea standard 
+Neutrel1 Hp = 2 a primit dmg: 9
+
+b) Neutrel1 turn
+Neutrel1 executa miscarea standard 
+Squirtle Hp = 63 a primit dmg: 3
+
+2. 
+a) Squirtle turn
+[Abilitati: 1 - 2 cooldown; 2 - 0 cooldown]
+Squirtle executa miscarea standard 
+Neutrel1 Hp = -6 a primit dmg: 9
+
+b) Neutrel1 turn
+Neutrel1 executa miscarea standard 
+Squirtle Hp = 63 a primit dmg: 3
+
+Squirtle castiga cu 63 hp; Neutrel1 pierde
+Squirtle are +1 la caracteristicile din status
+
+Batalia dintre: Pikachu vs Neutrel2
+
+1. 
+a) Pikachu turn
+[Abilitati: 1 - 2 cooldown; 2 - 1 cooldown]
+Pikachu executa miscarea standard 
+Neutrel2 Hp = 13 a primit dmg: 8
+
+b) Neutrel2 turn
+Neutrel2 executa miscarea standard 
+Pikachu Hp = 39 a primit dmg: 4
+
+2. 
+a) Pikachu turn
+[Abilitati: 1 - 1 cooldown; 2 - 0 cooldown]
+Pikachu executa miscarea standard 
+Neutrel2 Hp = 6 a primit dmg: 8
+
+b) Neutrel2 turn
+Neutrel2 executa miscarea standard 
+Pikachu Hp = 39 a primit dmg: 4
+
+3. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 0 cooldown]
+Pikachu executa abilitatea speciala: 2
+Pikachu are dodge si nu va primi damage la urmatoarea miscare
+Neutrel2 a primit stunt
+Neutrel2 Hp = 2 a primit dmg: 4
+Abilitatea speciala: 2 are cooldown : 6
+
+b) Neutrel2 turn
+Neutrel2 executa miscarea standard 
+Pikachu Hp = 39 a primit dmg: 4
+
+4. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 5 cooldown]
+Pikachu executa miscarea standard 
+Neutrel2 Hp = -5 a primit dmg: 8
+
+b) Neutrel2 turn
+Neutrel2 este stuned si nu a executat nicio miscare
+
+Pikachu castiga cu 39 hp; Neutrel2 pierde
+Pikachu are +1 la caracteristicile din status
+
+Batalia dintre: Squirtle vs Neutrel2
+
+1. 
+a) Squirtle turn
+[Abilitati: 1 - 1 cooldown; 2 - 0 cooldown]
+Squirtle executa miscarea standard 
+Neutrel2 Hp = 11 a primit dmg: 10
+
+b) Neutrel2 turn
+Neutrel2 executa miscarea standard 
+Squirtle Hp = 64 a primit dmg: 4
+
+2. 
+a) Squirtle turn
+[Abilitati: 1 - 0 cooldown; 2 - 0 cooldown]
+Squirtle executa abilitatea speciala: 1
+Neutrel2 Hp = 7 a primit dmg: 4
+Abilitatea speciala: 1 are cooldown : 4
+
+b) Neutrel2 turn
+Neutrel2 executa miscarea standard 
+Squirtle Hp = 64 a primit dmg: 4
+
+3. 
+a) Squirtle turn
+[Abilitati: 1 - 3 cooldown; 2 - 0 cooldown]
+Squirtle executa abilitatea speciala: 2
+Neutrel2 a primit stunt
+Neutrel2 Hp = 5 a primit dmg: 2
+Abilitatea speciala: 2 are cooldown : 3
+
+b) Neutrel2 turn
+Neutrel2 este stuned si nu a executat nicio miscare
+
+4. 
+a) Squirtle turn
+[Abilitati: 1 - 2 cooldown; 2 - 2 cooldown]
+Squirtle executa miscarea standard 
+Neutrel2 Hp = -4 a primit dmg: 10
+
+b) Neutrel2 turn
+Neutrel2 executa miscarea standard 
+Squirtle Hp = 64 a primit dmg: 4
+
+Squirtle castiga cu 64 hp; Neutrel2 pierde
+Squirtle are +1 la caracteristicile din status
+
+Batalia dintre: Pikachu vs Neutrel2
+
+1. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 4 cooldown]
+Pikachu executa miscarea standard 
+Neutrel2 Hp = 12 a primit dmg: 9
+
+b) Neutrel2 turn
+Neutrel2 executa miscarea standard 
+Pikachu Hp = 40 a primit dmg: 4
+
+2. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 3 cooldown]
+Pikachu executa miscarea standard 
+Neutrel2 Hp = 4 a primit dmg: 9
+
+b) Neutrel2 turn
+Neutrel2 executa miscarea standard 
+Pikachu Hp = 40 a primit dmg: 4
+
+3. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 2 cooldown]
+Pikachu executa miscarea standard 
+Neutrel2 Hp = -4 a primit dmg: 9
+
+b) Neutrel2 turn
+Neutrel2 executa miscarea standard 
+Pikachu Hp = 40 a primit dmg: 4
+
+Pikachu castiga cu 40 hp; Neutrel2 pierde
+Pikachu are +1 la caracteristicile din status
+
+Batalia dintre: Squirtle vs Neutrel2
+
+1. 
+a) Squirtle turn
+[Abilitati: 1 - 1 cooldown; 2 - 1 cooldown]
+Squirtle executa miscarea standard 
+Neutrel2 Hp = 10 a primit dmg: 11
+
+b) Neutrel2 turn
+Neutrel2 executa miscarea standard 
+Squirtle Hp = 65 a primit dmg: 4
+
+2. 
+a) Squirtle turn
+[Abilitati: 1 - 0 cooldown; 2 - 0 cooldown]
+Squirtle executa miscarea standard 
+Neutrel2 Hp = 0 a primit dmg: 11
+
+b) Neutrel2 turn
+Neutrel2 executa miscarea standard 
+Squirtle Hp = 65 a primit dmg: 4
+
+Squirtle castiga cu 65 hp; Neutrel2 pierde
+Squirtle are +1 la caracteristicile din status
+Se vor confrunta cei 2 pokemoni
+
+Batalia dintre: Pikachu vs Squirtle
+
+1. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 1 cooldown]
+Pikachu executa miscarea standard 
+Squirtle Hp = 66 a primit dmg: 10
+
+b) Squirtle turn
+[Abilitati: 1 - 0 cooldown; 2 - 0 cooldown]
+Squirtle executa abilitatea speciala: 2
+Pikachu a primit stunt
+Pikachu Hp = 39 a primit dmg: 2
+Abilitatea speciala: 2 are cooldown : 3
+
+2. 
+a) Pikachu turn
+Pikachu este stuned si nu a executat nicio miscare
+
+b) Squirtle turn
+[Abilitati: 1 - 0 cooldown; 2 - 2 cooldown]
+Squirtle executa abilitatea speciala: 1
+Pikachu Hp = 35 a primit dmg: 4
+Abilitatea speciala: 1 are cooldown : 4
+
+3. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 0 cooldown]
+Pikachu executa abilitatea speciala: 1
+Squirtle Hp = 60 a primit dmg: 6
+Abilitatea speciala: 1 are cooldown : 5
+
+b) Squirtle turn
+[Abilitati: 1 - 3 cooldown; 2 - 1 cooldown]
+Squirtle executa miscarea standard 
+Pikachu Hp = 32 a primit dmg: 12
+
+4. 
+a) Pikachu turn
+[Abilitati: 1 - 4 cooldown; 2 - 0 cooldown]
+Pikachu executa miscarea standard 
+Squirtle Hp = 60 a primit dmg: 10
+
+b) Squirtle turn
+[Abilitati: 1 - 2 cooldown; 2 - 0 cooldown]
+Squirtle executa abilitatea speciala: 2
+Pikachu a primit stunt
+Pikachu Hp = 30 a primit dmg: 2
+Abilitatea speciala: 2 are cooldown : 3
+
+5. 
+a) Pikachu turn
+Pikachu este stuned si nu a executat nicio miscare
+
+b) Squirtle turn
+[Abilitati: 1 - 1 cooldown; 2 - 2 cooldown]
+Squirtle executa miscarea standard 
+Pikachu Hp = 27 a primit dmg: 12
+
+6. 
+a) Pikachu turn
+[Abilitati: 1 - 2 cooldown; 2 - 0 cooldown]
+Pikachu executa miscarea standard 
+Squirtle Hp = 60 a primit dmg: 10
+
+b) Squirtle turn
+[Abilitati: 1 - 0 cooldown; 2 - 1 cooldown]
+Squirtle executa abilitatea speciala: 1
+Pikachu Hp = 23 a primit dmg: 4
+Abilitatea speciala: 1 are cooldown : 4
+
+7. 
+a) Pikachu turn
+[Abilitati: 1 - 1 cooldown; 2 - 0 cooldown]
+Pikachu executa miscarea standard 
+Squirtle Hp = 60 a primit dmg: 10
+
+b) Squirtle turn
+[Abilitati: 1 - 3 cooldown; 2 - 0 cooldown]
+Squirtle executa miscarea standard 
+Pikachu Hp = 20 a primit dmg: 12
+
+8. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 0 cooldown]
+Pikachu executa abilitatea speciala: 2
+Pikachu are dodge si nu va primi damage la urmatoarea miscare
+Squirtle a primit stunt
+Squirtle Hp = 56 a primit dmg: 4
+Abilitatea speciala: 2 are cooldown : 6
+
+b) Squirtle turn
+Squirtle este stuned si nu a executat nicio miscare
+
+9. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 5 cooldown]
+Pikachu executa miscarea standard 
+Squirtle Hp = 56 a primit dmg: 10
+
+b) Squirtle turn
+Pikachu are dodge Squirtle nu a reusit sa il atace cu miscara 2
+
+10. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 4 cooldown]
+Pikachu executa miscarea standard 
+Squirtle Hp = 56 a primit dmg: 10
+
+b) Squirtle turn
+[Abilitati: 1 - 0 cooldown; 2 - 0 cooldown]
+Squirtle executa abilitatea speciala: 2
+Pikachu a primit stunt
+Pikachu Hp = 18 a primit dmg: 2
+Abilitatea speciala: 2 are cooldown : 3
+
+11. 
+a) Pikachu turn
+Pikachu este stuned si nu a executat nicio miscare
+
+b) Squirtle turn
+[Abilitati: 1 - 0 cooldown; 2 - 2 cooldown]
+Squirtle executa abilitatea speciala: 1
+Pikachu Hp = 14 a primit dmg: 4
+Abilitatea speciala: 1 are cooldown : 4
+
+12. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 2 cooldown]
+Pikachu executa abilitatea speciala: 1
+Squirtle Hp = 50 a primit dmg: 6
+Abilitatea speciala: 1 are cooldown : 5
+
+b) Squirtle turn
+[Abilitati: 1 - 3 cooldown; 2 - 1 cooldown]
+Squirtle executa miscarea standard 
+Pikachu Hp = 11 a primit dmg: 12
+
+13. 
+a) Pikachu turn
+[Abilitati: 1 - 4 cooldown; 2 - 1 cooldown]
+Pikachu executa miscarea standard 
+Squirtle Hp = 50 a primit dmg: 10
+
+b) Squirtle turn
+[Abilitati: 1 - 2 cooldown; 2 - 0 cooldown]
+Squirtle executa miscarea standard 
+Pikachu Hp = 8 a primit dmg: 12
+
+14. 
+a) Pikachu turn
+[Abilitati: 1 - 3 cooldown; 2 - 0 cooldown]
+Pikachu executa miscarea standard 
+Squirtle Hp = 50 a primit dmg: 10
+
+b) Squirtle turn
+[Abilitati: 1 - 1 cooldown; 2 - 0 cooldown]
+Squirtle executa miscarea standard 
+Pikachu Hp = 5 a primit dmg: 12
+
+15. 
+a) Pikachu turn
+[Abilitati: 1 - 2 cooldown; 2 - 0 cooldown]
+Pikachu executa abilitatea speciala: 2
+Pikachu are dodge si nu va primi damage la urmatoarea miscare
+Squirtle a primit stunt
+Squirtle Hp = 46 a primit dmg: 4
+Abilitatea speciala: 2 are cooldown : 6
+
+b) Squirtle turn
+Squirtle este stuned si nu a executat nicio miscare
+
+16. 
+a) Pikachu turn
+[Abilitati: 1 - 1 cooldown; 2 - 5 cooldown]
+Pikachu executa miscarea standard 
+Squirtle Hp = 46 a primit dmg: 10
+
+b) Squirtle turn
+Pikachu are dodge Squirtle nu a reusit sa il atace cu miscara 2
+
+17. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 4 cooldown]
+Pikachu executa miscarea standard 
+Squirtle Hp = 46 a primit dmg: 10
+
+b) Squirtle turn
+[Abilitati: 1 - 0 cooldown; 2 - 0 cooldown]
+Squirtle executa abilitatea speciala: 1
+Pikachu Hp = 1 a primit dmg: 4
+Abilitatea speciala: 1 are cooldown : 4
+
+18. 
+a) Pikachu turn
+[Abilitati: 1 - 0 cooldown; 2 - 3 cooldown]
+Pikachu executa miscarea standard 
+Squirtle Hp = 46 a primit dmg: 10
+
+b) Squirtle turn
+[Abilitati: 1 - 3 cooldown; 2 - 0 cooldown]
+Squirtle executa abilitatea speciala: 2
+Pikachu a primit stunt
+Pikachu Hp = -1 a primit dmg: 2
+Abilitatea speciala: 2 are cooldown : 3
+
+Squirtle castiga cu 46 hp; Pikachu pierde
+Squirtle are +1 la caracteristicile din status
+Squirtle castiga aventura!!!
